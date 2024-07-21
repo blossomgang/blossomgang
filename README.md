@@ -1,5 +1,11 @@
 ## Hi there 👋
+Im amera!
 
+Currently learning C++
+
+They/It preferred though i could care less ^^ 
+
+Enjoy your stay on this empty profile!
 <!--
 **blossomgang/blossomgang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
