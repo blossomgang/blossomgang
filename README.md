@@ -1,7 +1,7 @@
 ## Hi there 👋
 Im amera!
 
-Currently learning C++ & Arch Linux
+Currently learning C & Arch Linux
 
 They/It preferred though i could care less ^^ 
 
